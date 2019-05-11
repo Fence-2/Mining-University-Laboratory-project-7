@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\7.4\bin\Debug\7.4.exe.config
+C:\Users\User\source\repos\7.4\bin\Debug\7.4.exe
+C:\Users\User\source\repos\7.4\bin\Debug\7.4.pdb
+C:\Users\User\source\repos\7.4\obj\Debug\_7._4.Form1.resources
+C:\Users\User\source\repos\7.4\obj\Debug\_7._4.Properties.Resources.resources
+C:\Users\User\source\repos\7.4\obj\Debug\7.4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\7.4\obj\Debug\7.4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\7.4\obj\Debug\7.4.exe
+C:\Users\User\source\repos\7.4\obj\Debug\7.4.pdb
+C:\Users\Fence_2\Desktop\Новая папка\7.4\bin\Debug\7.4.exe.config
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\7.4.exe
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\7.4.pdb
+C:\Users\Fence_2\Desktop\Новая папка\7.4\bin\Debug\7.4.exe
+C:\Users\Fence_2\Desktop\Новая папка\7.4\bin\Debug\7.4.pdb
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\7.4.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\_7._4.Form1.resources
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\_7._4.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Новая папка\7.4\obj\Debug\7.4.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\bin\Debug\7.4.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\7.4.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\7.4.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\bin\Debug\7.4.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\bin\Debug\7.4.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\7.4.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\_7._4.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\_7._4.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.4\obj\Debug\7.4.csproj.GenerateResource.Cache

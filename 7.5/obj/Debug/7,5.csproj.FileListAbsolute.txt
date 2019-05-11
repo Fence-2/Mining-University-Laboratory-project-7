@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\7,5\obj\Debug\7,5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\7,5\obj\Debug\_7_5.Form1.resources
+C:\Users\User\source\repos\7,5\obj\Debug\_7_5.Properties.Resources.resources
+C:\Users\User\source\repos\7,5\obj\Debug\7,5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\7,5\obj\Debug\7,5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\7,5\bin\Debug\7,5.exe.config
+C:\Users\User\source\repos\7,5\bin\Debug\7,5.exe
+C:\Users\User\source\repos\7,5\bin\Debug\7,5.pdb
+C:\Users\User\source\repos\7,5\obj\Debug\7,5.exe
+C:\Users\User\source\repos\7,5\obj\Debug\7,5.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\7,5.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\_7_5.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\_7_5.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\7,5.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\bin\Debug\7.5.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\bin\Debug\7.5.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\bin\Debug\7.5.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\7.5.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.5\obj\Debug\7.5.pdb

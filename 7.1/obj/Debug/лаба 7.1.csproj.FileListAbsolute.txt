@@ -1,0 +1,19 @@
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба 7.1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба_7._1.Form1.resources
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба_7._1.Properties.Resources.resources
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба 7.1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба 7.1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\лаба 7.1\bin\Debug\лаба 7.1.exe.config
+C:\Users\User\source\repos\лаба 7.1\bin\Debug\лаба 7.1.exe
+C:\Users\User\source\repos\лаба 7.1\bin\Debug\лаба 7.1.pdb
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба 7.1.exe
+C:\Users\User\source\repos\лаба 7.1\obj\Debug\лаба 7.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\bin\Debug\лаба 7.1.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба 7.1.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба 7.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\bin\Debug\лаба 7.1.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\bin\Debug\лаба 7.1.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба 7.1.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба_7._1.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба_7._1.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.1\obj\Debug\лаба 7.1.csproj.GenerateResource.Cache

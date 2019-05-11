@@ -1,0 +1,12 @@
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\bin\Debug\7.8.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\bin\Debug\7.8.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\bin\Debug\7.8.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\7.8.csprojResolveAssemblyReference.cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\_7._8.Form1.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\_7._8.Properties.Resources.resources
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\7.8.csproj.GenerateResource.Cache
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\7.8.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №6\7.8\7.8\obj\Debug\7.8.pdb
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.8\7.8\bin\Debug\7.8.exe.config
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.8\7.8\obj\Debug\7.8.exe
+C:\Users\Fence_2\Desktop\Вуз\[Программирование]\Лаб. работа №7\7.8\7.8\obj\Debug\7.8.pdb
